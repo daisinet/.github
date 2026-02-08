@@ -1,4 +1,4 @@
-# DAISI - Distribute AI Systems, Inc.
+# DAISI - Distributed AI Systems, Inc.
 The DAISI system is build for the masses to use existing, available resources for AI Inference, code generation, tool execution, image generation, and more. 
 The system should remain open and free to use, based on a simple credit system. Every time one of your hosts processes a token for someone else, you get a token that you can use in the future.
 
@@ -7,7 +7,7 @@ which will be used to grow and support future development.
 
 ## Terminology
 ### Hosts
-Hosts are the devices that process LLM, Tool, and generation requests using their own GPU/CPU setup. As you process requests, you earn credit within that network, which you can later use for 
+Hosts are the devices that process LLM, Tool, and generation requests using their own GPU/CPU setup. As you process requests for other people, you earn credit within that network, which you can later use for 
 whatever purpose you choose. Hosts can be setup to allow for Direction Connections (DC) or to use Fully Orchestrated Connections (FOC). Either way, a session must be created via connection to the Orc, 
 which is always validated by the Hosts so that unauthorized connections to the Host are prohibited.
 
