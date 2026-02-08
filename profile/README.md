@@ -27,4 +27,5 @@ Public and Private networks are possible in the Daisi system. Orcs can be setup 
 and sensitive data can be protected within the boundaries of the currently LAN and not exposed to the public, unless desired.
 
 ## Security
-Public networks should always be considered insecure, despite best efforts to enforce encryption, Trusted Security Environments (TEE), authentication, auhtorization, and other security measures. This is protect sensitive information from falling into nefarious hands. There's always a way should someone wish to be evil, so protect your systems and IP carefully.
+Public networks should always be considered insecure, despite best efforts to enforce encryption, Trusted Security Environments (TEE), authentication, auhtorization, and other security measures. This is best practice in order to
+protect sensitive information from falling into nefarious hands. There's always a way should someone wish to be evil, so protect your systems and IP carefully.
