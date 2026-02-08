@@ -22,7 +22,7 @@ the Orc will create a new Session for the Consumer to use for tools, inference, 
 Anyone that wants to process a request on the network is considered a Consumer. Usually, consumers will be an App that is created in the Manager that authenticates via the app's Secret Key, which is provided
 in the Management Suite for the Orc.
 
-## Network
+### Network
 Public and Private networks are possible in the Daisi system. Orcs can be setup to operate exclusively within a LAN on a private network that only allows Hosts within that network. In this way, intellectual property
 and sensitive data can be protected within the boundaries of the currently LAN and not exposed to the public, unless desired.
 
