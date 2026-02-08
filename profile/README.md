@@ -29,3 +29,12 @@ and sensitive data can be protected within the boundaries of the currently LAN a
 ## Security
 Public networks should always be considered insecure, despite best efforts to enforce encryption, Trusted Security Environments (TEE), authentication, auhtorization, and other security measures. This is best practice in order to
 protect sensitive information from falling into nefarious hands. There's always a way should someone wish to be evil, so protect your systems and IP carefully.
+
+## Community Projects
+These are community projects that are helpfully maintained by others. Refer to their documentation for insights on how to use their repos. If you have a project that you would like to add to our list, please let us know by emailing info (AT) daisi.ai and we will review it for adding to the list.
+
+### SDKs
+* DAISI Python SDK - [managed by mwhagedorn](https://github.com/mwhagedorn/daisi-sdk-python)
+
+### Gaming
+* DND Character Generator - [managed by mwhagedorn](https://github.com/mwhagedorn/dndchars_daisi)
